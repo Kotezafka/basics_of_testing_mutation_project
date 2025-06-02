@@ -13,5 +13,5 @@ ENV/
 service.log
 
 .coverage
-.mutmut-cache/
+.mutmut-cache
 htmlcov/
