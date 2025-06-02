@@ -1,0 +1,5 @@
+[mutmut]
+paths_to_mutate=billing/
+tests_dir=tests/
+runner=.venv/bin/python -m pytest
+jobs = 4
