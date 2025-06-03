@@ -26,22 +26,22 @@
    - Mutation Score ≥ 80%
 
 ### Как запустить тесты
-1. Установите зависимости:
+1. Установка зависимостей:
 ```bash
 make install
 ```
 
-2. Запустите тесты:
+2. Запуск тестов:
 ```bash
 make test
 ```
 
-3. Проверьте покрытие:
+3. Проверка покрытия:
 ```bash
 make htmlcov
 ```
 
-4. Запустите mutation testing:
+4. Запуск mutation testing:
 ```bash
 make mutate
 ```
